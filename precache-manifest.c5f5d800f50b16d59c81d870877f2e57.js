@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "/Quotes/static/js/runtime~main.ba8007ae.js"
   },
   {
-    "revision": "6f7931153677d2b57598f21541a7cbb6",
-    "url": "/Quotes/static/media/fontello.6f793115.woff"
+    "revision": "36bb0af4b5e29ba93371a270fa8b7e79",
+    "url": "/Quotes/static/media/fontello.36bb0af4.eot"
   },
   {
     "revision": "fd5e8c37528481637ee1",
@@ -28,12 +28,12 @@ self.__precacheManifest = [
     "url": "/Quotes/static/media/fontello.04f4a79c.ttf"
   },
   {
-    "revision": "16e26b1981df4bf97049630f96566e1f",
-    "url": "/Quotes/static/media/fontello.16e26b19.svg"
+    "revision": "6f7931153677d2b57598f21541a7cbb6",
+    "url": "/Quotes/static/media/fontello.6f793115.woff"
   },
   {
-    "revision": "36bb0af4b5e29ba93371a270fa8b7e79",
-    "url": "/Quotes/static/media/fontello.36bb0af4.eot"
+    "revision": "16e26b1981df4bf97049630f96566e1f",
+    "url": "/Quotes/static/media/fontello.16e26b19.svg"
   },
   {
     "revision": "f445bdc28d6ea8f88606fb0de7351d06",
