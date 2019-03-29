@@ -27,7 +27,7 @@ class Navigation extends Component {
        
         {type:'span',name:'Znajdź cytat na chwilę wolnego czasu', style:{fontSize:'0.6em',textAlign:'center'}},
         {type:'NavLink',name:'Książki', path:"/ksiazki",class:'dark'},
-        {type:'NavLink',name:'Stoicy', path:"/Stoicy"},
+        {type:'NavLink',name:'Stoicy', path:"/stoicy"},
         {type:'NavLink',name:'Insta', path:"/insta"},
         {type:'NavLink',name:'Filozoficzne', path:"/filozoficzne"},
         {type:'NavLink',name:'Kontakt', path:"/kontakt",},
