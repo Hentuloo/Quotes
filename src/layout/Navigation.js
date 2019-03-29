@@ -21,7 +21,7 @@ class Navigation extends Component {
         {type:'NavLink',name:'Do pracy', path:"/praca"},
         {type:'image',name:'korona',style:{border:'none'},src:spiderImg,class:"navArrow"},
         {type:'span',name:'To po­między wier­sza­mi uk­ry­te są strzępy prawdy…',class:'hide',style:{border:'none'}},
-        {type:'a',name:'Twórca', href:"/#twórca", class:'dark'},
+        {type:'a',name:'Twórca', href:"www.chentekwdzialaniu.pl", class:'dark'},
         {type:'span',name:'I na­wet ciemną nocą na niebie są uk­ry­te białe chmury.', class:'dark hide mobileNavHide'},
       
        

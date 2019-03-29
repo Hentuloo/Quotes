@@ -13,7 +13,7 @@ class Draw extends Component {
      
     handleSubmit=()=>{
         
-        const url=`http://localhost/api2/api/POST/random.php?category=${this.props.type}`;
+        const url=`http://megafiszka.eu/api/POST/random.php?category=${this.props.type}`;
         this.setState({  load:true });
         fetch(url)
         .then(res=>res.json())

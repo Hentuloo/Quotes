@@ -73,7 +73,7 @@ class Contact extends Component {
         return ( 
             <>
             <h1>Kontakt</h1>
-            <form className="contactForm" onSubmit={this.handleSubmit} action={`http://localhost/api2/api/POST/mail.php`} method='post'>
+            <form className="contactForm" onSubmit={this.handleSubmit} action={`http://megafiszka.eu/api/POST/mail.php`} method='post'>
             
             <label>Powód wiadomości: 
             <select name="reason" onChange={this.handleChange} value={this.state.reason}>
