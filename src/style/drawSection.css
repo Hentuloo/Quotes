@@ -1,0 +1,65 @@
+.drawSeciton button{
+display: block;
+margin: 0px auto;
+padding: 7px 20px 7px 0px;
+background-color: white;
+border: 3px black solid;
+cursor: pointer;
+border-radius: 4%;
+position: relative;
+}
+
+.drawSeciton button.load .icon-spin2{
+/*spin animation and .icon-spin2 setting are in app.css */
+    display: block;
+    animation: spin 1.4s linear infinite;
+}
+.drawSeciton button.load{
+    background-color: rgb(92, 92, 92);
+}
+.drawSeciton i{
+    font-style: normal;
+    font-size: 30px;
+}
+.drawSeciton article::after,.drawSeciton article::before{
+display: none;
+}
+.drawSeciton article{
+    background-color:transparent; 
+    border: transparent;
+    color: black;
+    margin: 10px 20px;
+    font-size: 1.2rem;
+    letter-spacing: 1px;
+    text-align: center;
+}
+.quote{
+    position: relative;
+    margin: 20px 10px 30px 10px;
+    z-index: 2;
+}
+.quote::before{
+    content: '\201E';
+    position: absolute;
+    top: -55px;
+    right: 0px;
+    font-size: 300px;
+    color:rgb(184, 182, 182);
+    z-index: -1;
+}
+.quote span{
+    font-size: 1.2rem;
+    display: block;
+    text-align: right;
+    font-weight: bold;
+}
+.quote span::after{
+display: none;
+}
+.quoteDescription{
+    margin: 50px 0px 0px 0px;
+    padding: 0px 10px;
+    position: relative;
+    border-right: 3px rgba(167, 167, 167, 0.473) solid;
+    border-left: 3px rgba(167, 167, 167, 0.473) solid;
+}

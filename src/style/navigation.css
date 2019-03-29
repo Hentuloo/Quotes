@@ -1,0 +1,125 @@
+
+.navigation {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    font-size: 2em;
+    list-style: none;
+}
+
+.navigation.hide li{
+    display: none;
+}
+.navigation.hide{
+    flex-direction: row;
+}
+.navigation.hide li{
+        flex-basis: 50%;
+        height: 70px;
+}
+.navigation.hide .mobileNavHide{
+    display: block;
+}
+.navigation.hide{
+height: 75px;
+}
+.navigation.hide .navArrow.mobileNavHide img{
+    transform: rotate(-90deg) translate(45%,0%);
+}
+
+.navigation li{
+    width: 50%;
+    flex-basis: 14.28%;
+    text-align: left;
+    border: 1px black solid;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+    
+}
+.navigation li a:after{
+    content: "";
+    background-image: url(../images/active.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    opacity: 0.5;
+    top: -2vh;
+    left: -14px;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+   display: none;
+}
+.navigation li a:hover:after{
+    display: block;
+  }
+  .navigation li.dark a:hover:after{
+    display: none;
+  }
+  .navigation li a.active:after{
+    display:block
+}
+.navigation li.dark a.active:after{
+    display:none;
+}
+
+.navigation li.dark{
+    background-color: rgb(0, 0, 0);
+}
+.navigation li.dark:hover a{
+    background-color: white;
+    color: black;
+}
+.navigation li.dark a,.navigation li.dark span{
+color: white;
+}
+.navigation li.hide span,.navigation li.hide a{
+    color: transparent;
+    font-size: 0.5em;
+}
+.navigation a,.navigation span{
+    display: block;
+    width: 100%;
+    height: 100%;
+    padding: 15px 5px 15px 10px;
+
+    color: black;
+    text-decoration: none;
+    transition: 0.3s;
+}
+.navigation span{
+    background-color: transparent;
+}
+.navArrow span{
+    position: relative;
+    height: 100%;
+    overflow: hidden;
+}
+.navArrow span img{
+    position: absolute;
+    max-height: 90%;
+    top: 50%;
+    left: 40%;
+    transform: translate(-50%,-50%);
+   
+}
+
+@media only screen and (min-width: 900px) {
+    .navigation.hide{
+        flex-direction: column;
+        height: 100vh;
+    }
+    .navigation.hide li{
+        display: block;
+        height: auto;
+        flex-basis: 14.28%;
+    }
+    .navigation.hide .navArrow.mobileNavHide img{
+        transform: translate(-50%,-50%);
+    }
+    .navigation a,.navigation span{
+        padding: 25px 15px 15px 30px;
+    }
+    
+}
