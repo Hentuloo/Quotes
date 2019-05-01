@@ -52,16 +52,16 @@ self.__precacheManifest = [
     "url": "/Quotes_2019/static/media/fontello.11214072.woff2"
   },
   {
+    "revision": "16e26b1981df4bf97049630f96566e1f",
+    "url": "/Quotes_2019/static/media/fontello.16e26b19.svg"
+  },
+  {
     "revision": "04f4a79c0a2697ee4ed425e5985bc91c",
     "url": "/Quotes_2019/static/media/fontello.04f4a79c.ttf"
   },
   {
     "revision": "6f7931153677d2b57598f21541a7cbb6",
     "url": "/Quotes_2019/static/media/fontello.6f793115.woff"
-  },
-  {
-    "revision": "16e26b1981df4bf97049630f96566e1f",
-    "url": "/Quotes_2019/static/media/fontello.16e26b19.svg"
   },
   {
     "revision": "f445bdc28d6ea8f88606fb0de7351d06",
