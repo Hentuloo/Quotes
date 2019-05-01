@@ -1,7 +1,7 @@
 {
-  "main.css": "/Quotes_2019/static/css/main.77dae121.chunk.css",
-  "main.js": "/Quotes_2019/static/js/main.fe257c6c.chunk.js",
-  "main.js.map": "/Quotes_2019/static/js/main.fe257c6c.chunk.js.map",
+  "main.css": "/Quotes_2019/static/css/main.93159875.chunk.css",
+  "main.js": "/Quotes_2019/static/js/main.67d7426a.chunk.js",
+  "main.js.map": "/Quotes_2019/static/js/main.67d7426a.chunk.js.map",
   "static/js/1.28a5900a.chunk.js": "/Quotes_2019/static/js/1.28a5900a.chunk.js",
   "static/js/1.28a5900a.chunk.js.map": "/Quotes_2019/static/js/1.28a5900a.chunk.js.map",
   "runtime~main.js": "/Quotes_2019/static/js/runtime~main.bd238e27.js",
@@ -15,8 +15,8 @@
   "static/media/6.png": "/Quotes_2019/static/media/6.b69c9bc7.png",
   "static/media/fontello.css": "/Quotes_2019/static/media/fontello.16e26b19.svg",
   "static/media/2.png": "/Quotes_2019/static/media/2.adddc777.png",
-  "static/css/main.77dae121.chunk.css.map": "/Quotes_2019/static/css/main.77dae121.chunk.css.map",
+  "static/css/main.93159875.chunk.css.map": "/Quotes_2019/static/css/main.93159875.chunk.css.map",
   "index.html": "/Quotes_2019/index.html",
-  "precache-manifest.686c4ab5df4cb87fdfee94fcb4c7ac24.js": "/Quotes_2019/precache-manifest.686c4ab5df4cb87fdfee94fcb4c7ac24.js",
+  "precache-manifest.7901ede9783fda9d403a05bfd2e4a258.js": "/Quotes_2019/precache-manifest.7901ede9783fda9d403a05bfd2e4a258.js",
   "service-worker.js": "/Quotes_2019/service-worker.js"
 }
