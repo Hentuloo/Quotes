@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/Quotes_2019/static/media/4.7930175a.png"
   },
   {
-    "revision": "395814ce866562d3cec3",
+    "revision": "91f08a13bf125c755c38",
     "url": "/Quotes_2019/static/css/main.f60f15cd.chunk.css"
   },
   {
@@ -36,8 +36,8 @@ self.__precacheManifest = [
     "url": "/Quotes_2019/static/media/5.ae4de8e2.png"
   },
   {
-    "revision": "395814ce866562d3cec3",
-    "url": "/Quotes_2019/static/js/main.395814ce.chunk.js"
+    "revision": "91f08a13bf125c755c38",
+    "url": "/Quotes_2019/static/js/main.91f08a13.chunk.js"
   },
   {
     "revision": "b69c9bc70c1e9e59c36b986a6d8732be",
@@ -48,27 +48,27 @@ self.__precacheManifest = [
     "url": "/Quotes_2019/static/media/fontello.36bb0af4.eot"
   },
   {
-    "revision": "1121407294e5d9f7aaa50ddb0a1499dd",
-    "url": "/Quotes_2019/static/media/fontello.11214072.woff2"
-  },
-  {
-    "revision": "16e26b1981df4bf97049630f96566e1f",
-    "url": "/Quotes_2019/static/media/fontello.16e26b19.svg"
-  },
-  {
     "revision": "04f4a79c0a2697ee4ed425e5985bc91c",
     "url": "/Quotes_2019/static/media/fontello.04f4a79c.ttf"
+  },
+  {
+    "revision": "1121407294e5d9f7aaa50ddb0a1499dd",
+    "url": "/Quotes_2019/static/media/fontello.11214072.woff2"
   },
   {
     "revision": "6f7931153677d2b57598f21541a7cbb6",
     "url": "/Quotes_2019/static/media/fontello.6f793115.woff"
   },
   {
+    "revision": "16e26b1981df4bf97049630f96566e1f",
+    "url": "/Quotes_2019/static/media/fontello.16e26b19.svg"
+  },
+  {
     "revision": "f445bdc28d6ea8f88606fb0de7351d06",
     "url": "/Quotes_2019/static/media/active.f445bdc2.png"
   },
   {
-    "revision": "0b6b853822529bff9167aaa6d688839f",
+    "revision": "be70a9b7c4db9767156aaac045bdce71",
     "url": "/Quotes_2019/index.html"
   }
 ];

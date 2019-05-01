@@ -1,7 +1,7 @@
 {
   "main.css": "/Quotes_2019/static/css/main.f60f15cd.chunk.css",
-  "main.js": "/Quotes_2019/static/js/main.395814ce.chunk.js",
-  "main.js.map": "/Quotes_2019/static/js/main.395814ce.chunk.js.map",
+  "main.js": "/Quotes_2019/static/js/main.91f08a13.chunk.js",
+  "main.js.map": "/Quotes_2019/static/js/main.91f08a13.chunk.js.map",
   "static/js/1.28a5900a.chunk.js": "/Quotes_2019/static/js/1.28a5900a.chunk.js",
   "static/js/1.28a5900a.chunk.js.map": "/Quotes_2019/static/js/1.28a5900a.chunk.js.map",
   "runtime~main.js": "/Quotes_2019/static/js/runtime~main.bd238e27.js",
@@ -13,10 +13,10 @@
   "static/media/5.png": "/Quotes_2019/static/media/5.ae4de8e2.png",
   "static/media/4.png": "/Quotes_2019/static/media/4.7930175a.png",
   "static/media/6.png": "/Quotes_2019/static/media/6.b69c9bc7.png",
-  "static/media/fontello.css": "/Quotes_2019/static/media/fontello.6f793115.woff",
+  "static/media/fontello.css": "/Quotes_2019/static/media/fontello.16e26b19.svg",
   "static/media/2.png": "/Quotes_2019/static/media/2.adddc777.png",
   "static/css/main.f60f15cd.chunk.css.map": "/Quotes_2019/static/css/main.f60f15cd.chunk.css.map",
   "index.html": "/Quotes_2019/index.html",
-  "precache-manifest.c26d1f3f0fd2258b1bbc93e2713b1a5d.js": "/Quotes_2019/precache-manifest.c26d1f3f0fd2258b1bbc93e2713b1a5d.js",
+  "precache-manifest.8590e9d0a6b4b86f111ba30e6f07803b.js": "/Quotes_2019/precache-manifest.8590e9d0a6b4b86f111ba30e6f07803b.js",
   "service-worker.js": "/Quotes_2019/service-worker.js"
 }
