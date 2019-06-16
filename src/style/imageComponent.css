@@ -1,0 +1,21 @@
+.headerImage {
+    width: 95%;
+    margin: 5px auto 70px auto;
+    position: relative;
+    text-align: center;
+}
+
+.headerImage img {
+    max-width: 100%;
+}
+
+.headerImage figcaption {
+    position: absolute;
+    max-width: 100%;
+    left: 50%;
+    bottom: 0%;
+    transform: translate(-50%, 120%);
+    padding: 4px 15px;
+    border: 1px black solid;
+    font-size: 1.1em;
+}
