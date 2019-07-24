@@ -44,12 +44,12 @@ self.__precacheManifest = [
     "url": "/Quotes_2019/static/media/fontello.11214072.woff2"
   },
   {
-    "revision": "6f7931153677d2b57598f21541a7cbb6",
-    "url": "/Quotes_2019/static/media/fontello.6f793115.woff"
-  },
-  {
     "revision": "a68f6ea61a1577783a30a2a8deb4dfd0",
     "url": "/Quotes_2019/static/media/fontello.a68f6ea6.svg"
+  },
+  {
+    "revision": "6f7931153677d2b57598f21541a7cbb6",
+    "url": "/Quotes_2019/static/media/fontello.6f793115.woff"
   },
   {
     "revision": "04f4a79c0a2697ee4ed425e5985bc91c",
@@ -60,7 +60,7 @@ self.__precacheManifest = [
     "url": "/Quotes_2019/static/media/active.f445bdc2.png"
   },
   {
-    "revision": "40b63e95cb8c3229abb689c34220bf8e",
+    "revision": "9ef79809f4c0dd69224246d07658421e",
     "url": "/Quotes_2019/index.html"
   }
 ];
