@@ -1,7 +1,7 @@
 {
-  "main.css": "/Quotes_2019/static/css/main.5fd65628.chunk.css",
-  "main.js": "/Quotes_2019/static/js/main.5bfd0d04.chunk.js",
-  "main.js.map": "/Quotes_2019/static/js/main.5bfd0d04.chunk.js.map",
+  "main.css": "/Quotes_2019/static/css/main.ec97ae18.chunk.css",
+  "main.js": "/Quotes_2019/static/js/main.8874b576.chunk.js",
+  "main.js.map": "/Quotes_2019/static/js/main.8874b576.chunk.js.map",
   "static/js/1.12cd4d46.chunk.js": "/Quotes_2019/static/js/1.12cd4d46.chunk.js",
   "static/js/1.12cd4d46.chunk.js.map": "/Quotes_2019/static/js/1.12cd4d46.chunk.js.map",
   "runtime~main.js": "/Quotes_2019/static/js/runtime~main.bd238e27.js",
@@ -13,8 +13,8 @@
   "static/media/fontello.css": "/Quotes_2019/static/media/fontello.a68f6ea6.svg",
   "static/media/navigation.css": "/Quotes_2019/static/media/active.f445bdc2.png",
   "static/media/filozofyPage.png": "/Quotes_2019/static/media/filozofyPage.6a4a3f13.png",
-  "static/css/main.5fd65628.chunk.css.map": "/Quotes_2019/static/css/main.5fd65628.chunk.css.map",
+  "static/css/main.ec97ae18.chunk.css.map": "/Quotes_2019/static/css/main.ec97ae18.chunk.css.map",
   "index.html": "/Quotes_2019/index.html",
-  "precache-manifest.333bf2c9b9942f47e7c3037d0f2e927b.js": "/Quotes_2019/precache-manifest.333bf2c9b9942f47e7c3037d0f2e927b.js",
+  "precache-manifest.9954217e6dee87265dcaf9093870d718.js": "/Quotes_2019/precache-manifest.9954217e6dee87265dcaf9093870d718.js",
   "service-worker.js": "/Quotes_2019/service-worker.js"
 }

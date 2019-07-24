@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/Quotes_2019/static/media/instaPage.ae4de8e2.png"
   },
   {
-    "revision": "5bfd0d04758d223439d2",
-    "url": "/Quotes_2019/static/css/main.5fd65628.chunk.css"
+    "revision": "8874b576031e9770449e",
+    "url": "/Quotes_2019/static/css/main.ec97ae18.chunk.css"
   },
   {
     "revision": "12cd4d46142a955e558b",
@@ -32,8 +32,12 @@ self.__precacheManifest = [
     "url": "/Quotes_2019/static/media/mainPage.c46ed644.png"
   },
   {
-    "revision": "5bfd0d04758d223439d2",
-    "url": "/Quotes_2019/static/js/main.5bfd0d04.chunk.js"
+    "revision": "8874b576031e9770449e",
+    "url": "/Quotes_2019/static/js/main.8874b576.chunk.js"
+  },
+  {
+    "revision": "1121407294e5d9f7aaa50ddb0a1499dd",
+    "url": "/Quotes_2019/static/media/fontello.11214072.woff2"
   },
   {
     "revision": "36bb0af4b5e29ba93371a270fa8b7e79",
@@ -42,10 +46,6 @@ self.__precacheManifest = [
   {
     "revision": "6f7931153677d2b57598f21541a7cbb6",
     "url": "/Quotes_2019/static/media/fontello.6f793115.woff"
-  },
-  {
-    "revision": "1121407294e5d9f7aaa50ddb0a1499dd",
-    "url": "/Quotes_2019/static/media/fontello.11214072.woff2"
   },
   {
     "revision": "04f4a79c0a2697ee4ed425e5985bc91c",
@@ -60,7 +60,7 @@ self.__precacheManifest = [
     "url": "/Quotes_2019/static/media/active.f445bdc2.png"
   },
   {
-    "revision": "811df85281e99e6cca55e3415eff7776",
+    "revision": "6e1532e027bd3d3cf61e08b42b0e0a52",
     "url": "/Quotes_2019/index.html"
   }
 ];
