@@ -1,7 +1,7 @@
 {
   "main.css": "/Quotes_2019/static/css/main.d0ebf27e.chunk.css",
-  "main.js": "/Quotes_2019/static/js/main.00fbda6c.chunk.js",
-  "main.js.map": "/Quotes_2019/static/js/main.00fbda6c.chunk.js.map",
+  "main.js": "/Quotes_2019/static/js/main.0037a7e2.chunk.js",
+  "main.js.map": "/Quotes_2019/static/js/main.0037a7e2.chunk.js.map",
   "static/js/1.36a5d9ae.chunk.js": "/Quotes_2019/static/js/1.36a5d9ae.chunk.js",
   "static/js/1.36a5d9ae.chunk.js.map": "/Quotes_2019/static/js/1.36a5d9ae.chunk.js.map",
   "runtime~main.js": "/Quotes_2019/static/js/runtime~main.bd238e27.js",
@@ -10,11 +10,11 @@
   "static/media/stoicPage.png": "/Quotes_2019/static/media/stoicPage.b9684539.png",
   "static/media/mainPage.png": "/Quotes_2019/static/media/mainPage.c46ed644.png",
   "static/media/instaPage.png": "/Quotes_2019/static/media/instaPage.ae4de8e2.png",
-  "static/media/fontello.css": "/Quotes_2019/static/media/fontello.04f4a79c.ttf",
+  "static/media/fontello.css": "/Quotes_2019/static/media/fontello.a68f6ea6.svg",
   "static/media/navigation.css": "/Quotes_2019/static/media/active.f445bdc2.png",
   "static/media/filozofyPage.png": "/Quotes_2019/static/media/filozofyPage.6a4a3f13.png",
   "static/css/main.d0ebf27e.chunk.css.map": "/Quotes_2019/static/css/main.d0ebf27e.chunk.css.map",
   "index.html": "/Quotes_2019/index.html",
-  "precache-manifest.81eae1abaf2a308991accd369b4b09b7.js": "/Quotes_2019/precache-manifest.81eae1abaf2a308991accd369b4b09b7.js",
+  "precache-manifest.48ab1ab087e481077ae83de969ee9076.js": "/Quotes_2019/precache-manifest.48ab1ab087e481077ae83de969ee9076.js",
   "service-worker.js": "/Quotes_2019/service-worker.js"
 }
