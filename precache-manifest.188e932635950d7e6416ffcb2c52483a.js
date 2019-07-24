@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/Quotes_2019/static/media/instaPage.ae4de8e2.png"
   },
   {
-    "revision": "8874b576031e9770449e",
-    "url": "/Quotes_2019/static/css/main.ec97ae18.chunk.css"
+    "revision": "00fbda6cfbc3b58400ee",
+    "url": "/Quotes_2019/static/css/main.d0ebf27e.chunk.css"
   },
   {
-    "revision": "12cd4d46142a955e558b",
-    "url": "/Quotes_2019/static/js/1.12cd4d46.chunk.js"
+    "revision": "36a5d9aed85134ccb481",
+    "url": "/Quotes_2019/static/js/1.36a5d9ae.chunk.js"
   },
   {
     "revision": "bd238e27fb31e60783a3",
@@ -32,35 +32,35 @@ self.__precacheManifest = [
     "url": "/Quotes_2019/static/media/mainPage.c46ed644.png"
   },
   {
-    "revision": "8874b576031e9770449e",
-    "url": "/Quotes_2019/static/js/main.8874b576.chunk.js"
-  },
-  {
-    "revision": "1121407294e5d9f7aaa50ddb0a1499dd",
-    "url": "/Quotes_2019/static/media/fontello.11214072.woff2"
+    "revision": "00fbda6cfbc3b58400ee",
+    "url": "/Quotes_2019/static/js/main.00fbda6c.chunk.js"
   },
   {
     "revision": "36bb0af4b5e29ba93371a270fa8b7e79",
     "url": "/Quotes_2019/static/media/fontello.36bb0af4.eot"
   },
   {
-    "revision": "6f7931153677d2b57598f21541a7cbb6",
-    "url": "/Quotes_2019/static/media/fontello.6f793115.woff"
+    "revision": "1121407294e5d9f7aaa50ddb0a1499dd",
+    "url": "/Quotes_2019/static/media/fontello.11214072.woff2"
   },
   {
-    "revision": "04f4a79c0a2697ee4ed425e5985bc91c",
-    "url": "/Quotes_2019/static/media/fontello.04f4a79c.ttf"
+    "revision": "6f7931153677d2b57598f21541a7cbb6",
+    "url": "/Quotes_2019/static/media/fontello.6f793115.woff"
   },
   {
     "revision": "a68f6ea61a1577783a30a2a8deb4dfd0",
     "url": "/Quotes_2019/static/media/fontello.a68f6ea6.svg"
   },
   {
+    "revision": "04f4a79c0a2697ee4ed425e5985bc91c",
+    "url": "/Quotes_2019/static/media/fontello.04f4a79c.ttf"
+  },
+  {
     "revision": "f445bdc28d6ea8f88606fb0de7351d06",
     "url": "/Quotes_2019/static/media/active.f445bdc2.png"
   },
   {
-    "revision": "6e1532e027bd3d3cf61e08b42b0e0a52",
+    "revision": "40b63e95cb8c3229abb689c34220bf8e",
     "url": "/Quotes_2019/index.html"
   }
 ];
